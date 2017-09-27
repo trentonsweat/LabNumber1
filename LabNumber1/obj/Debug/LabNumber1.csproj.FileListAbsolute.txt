@@ -1,0 +1,7 @@
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\bin\Debug\LabNumber1.exe.config
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\bin\Debug\LabNumber1.exe
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\bin\Debug\LabNumber1.pdb
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\obj\Debug\LabNumber1.csprojResolveAssemblyReference.cache
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\obj\Debug\LabNumber1.csproj.CoreCompileInputs.cache
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\obj\Debug\LabNumber1.exe
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber1\LabNumber1\obj\Debug\LabNumber1.pdb
